@@ -1,7 +1,7 @@
 import fire
 import requests
 
-API_HOST = "https://cookie-stand-rest.herokuapp.com/"
+API_HOST = "https://cookie-stand-rest.herokuapp.com"
 RESOURCE_URI = "cookie_stands"
 USERNAME = "admin"
 PASSWORD = "Pass@123"
